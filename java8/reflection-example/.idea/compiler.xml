@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="bytecode" />
-        <module name="inflearn" />
+        <module name="refactoring-example" />
       </profile>
     </annotationProcessing>
   </component>
