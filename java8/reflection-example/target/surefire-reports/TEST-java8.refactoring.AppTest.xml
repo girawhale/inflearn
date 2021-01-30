@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="java8.refactoring.AppTest" time="0.04" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="MS949"/>
+    <property name="java.class.path" value="C:\intelliJProject\inflearn\java8\reflection-example\target\test-classes;C:\intelliJProject\inflearn\java8\reflection-example\target\classes;C:\Users\김송희\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\김송희\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://www.azulsystems.com/"/>
+    <property name="user.timezone" value="Asia/Seoul"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="KR"/>
+    <property name="sun.boot.library.path" value="C:\Users\김송희\.jdks\azul-11.0.9.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\김송희\AppData\Local\Temp\surefire17624698372517263124\surefirebooter5410707512605697098.jar C:\Users\김송희\AppData\Local\Temp\surefire17624698372517263124 2021-01-31T05-19-41_528-jvmRun1 surefire12087392325052495042tmp surefire_010845835273413120498tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\intelliJProject\inflearn\java8\reflection-example\target\test-classes;C:\intelliJProject\inflearn\java8\reflection-example\target\classes;C:\Users\김송희\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\김송희\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\김송희"/>
+    <property name="user.language" value="ko"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-11-04"/>
+    <property name="java.home" value="C:\Users\김송희\.jdks\azul-11.0.9.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\intelliJProject\inflearn\java8\reflection-example"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="jdk.vendor.version" value="Zulu11.43+55-CA"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\김송희\AppData\Local\Temp\surefire17624698372517263124\surefirebooter5410707512605697098.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.9.1+1-LTS"/>
+    <property name="user.name" value="kshee"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="MS949"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Zulu11.43+55-CA"/>
+    <property name="localRepository" value="C:\Users\김송희\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azulsystems.com/support/"/>
+    <property name="java.io.tmpdir" value="C:\Users\김송희\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.9.1"/>
+    <property name="user.dir" value="C:\intelliJProject\inflearn\java8\reflection-example"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\김송희\.jdks\azul-11.0.9.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\김송희\AppData\Local\Programs\Python\Python38-32\Scripts\;C:;Users\김송희\AppData\Local\Programs\Python\Python38-32\;Users\김송희\AppData\Local\Microsoft\WindowsApps;Program Files\Java\jre-10.0.2\bin;C:\Users\김송희\AppData\Local\Programs\Microsoft VS Code\bin;Gradle\gradle-5.2.1\bin;C:\Users\김송희\AppData\Roaming\npm;Program Files\JetBrains\IntelliJ IDEA 2020.3\bin;C:\Users\김송희\Desktop\수업\apache-maven-3.6.3\bin;;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\김송희\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\김송희\AppData\Local\Programs\Python\Python38-32\;C:\Users\김송희\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jre-10.0.2\bin;C:\Users\김송희\AppData\Local\Programs\Microsoft VS Code\bin;C:\Gradle\gradle-5.2.1\bin;C:\Users\김송희\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2020.3\bin;;C:\Users\김송희\Desktop\수업\apache-maven-3.6.3\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="11.0.9.1+1-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="java8.refactoring.AppTest" time="0"/>
+</testsuite>
